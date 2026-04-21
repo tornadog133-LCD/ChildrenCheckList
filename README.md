@@ -35,15 +35,6 @@ A Progressive Web App for tracking family rules for two children (Midam & Kangho
 6. Tap menu (⋮) → **"홈 화면에 추가"** (Add to Home screen)
 7. App icon appears on your home screen — tap it and it runs like a native app
 
-
-1. Create free GitHub account (if you don't have one)
-2. New repo → upload all 6 files from the folder above
-3. Settings → Pages → Deploy from branch: main
-4. Wait 1 minute, get your URL like https://yourname.github.io/family-app/
-5. Open URL on Galaxy phone in Chrome → menu ⋮ → 홈 화면에 추가
-6. Icon appears on home screen, launches like a native app
-
-
 ### Option B: Test locally first on your PC
 
 ```bash
